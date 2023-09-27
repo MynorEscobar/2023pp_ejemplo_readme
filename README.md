@@ -16,3 +16,22 @@ Tabla
     <li>dos</li>
     <li>tres</li>
 </ul>
+
+<table>
+        <thead>
+            <tr>
+                <th>Carnet</th>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2301</td>
+                <td>A</td>
+            </tr>
+            <tr>
+                <td>2302</td>
+                <td>B</td>
+            </tr>
+        </tbody>
+</table>
